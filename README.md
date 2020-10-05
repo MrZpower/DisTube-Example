@@ -5,3 +5,5 @@ DisTube.js.org example music bot with command handler
 ```npm
 npm update
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/skick1234/DisTube-Example)](https://repl.it/github/skick1234/DisTube-Example)
